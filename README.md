@@ -38,7 +38,7 @@ settings = {
 }
 
 ```
-3 You can customize people filter editting persons_filter in *config.py*
+3 You can customize people filter in *config.py*
 ```
 # for example
 persons_filter = {
