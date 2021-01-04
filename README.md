@@ -31,6 +31,7 @@ this script has been tested and confirmed to be supported.
 pip install -r requirements.txt
 ```
 2. Then open *config.py* file and write path to images and output path.
+```
 settings = {
     "OUTPUT_PATH" : "YOUR_OUTPUT_PATH_HERE",
     "API_KEY" : "YOUR_API_KEY_HERE"
